@@ -1,6 +1,16 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "/secureauth.png",
+    title: "SecureAuth",
+    description:
+      "Um sistema de autenticação com cadastro e login, incluindo validações, e uma página de perfil editável para usuários.",
+    tech_stack: ["Python","Django","HTML","CSS"],
+    github_url: "https://github.com/Guilherme-Tomelin/SecureAuth",
+    demo_url: "",
+    
+  },
+  {
     img: "/pdftoxls.png",
     title: "PdfToXls",
     description:
